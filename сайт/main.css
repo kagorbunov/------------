@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #f8f9fa;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+aside {
+    margin-top: -58px;
+    float: left;
+    position: fixed;
+    background: #6c757d;
+    width: 12%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #fff;
+    border-right: 5px solid #ffc107;
+}
+
+aside .logo {
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -20px;
+}
+
+aside h3 {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+aside ul li {
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: transform .6s ease;
+
+}
+main {
+    padding-left: 20%;
+    margin-right: 50px;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 86px;
+    text-align: center;
+}
+
+
+.co1 {
+	display: table-cell;
+    font-size: 32px;
+  	width: 400px;
+    height: 400px;
+    background-color: #f8f9fa;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.co2 {
+    margin: 50px;
+}
+
+.otherphoto {
+  margin-left: 200px;
+  display: table;
+  background-color: darkgray;
+}
+
+.es {
+    font-size: 38px;
+    text-decoration: line-through;
+}
+
+.es1 {
+    font-size: 38px;
+}
+
+.tit {
+    font-size: 48px;
+}
+
+.ph {
+    width: 450px;
+}
+
+.ph ul li {
+    display: block;
+}
+
+.photo1 img {
+    margin-top: -200px;
+    margin-left: 500px;
+    width: 500px;
+    height: 500px;
+}
+
+.mainphoto {
+    margin: 150px;
+}

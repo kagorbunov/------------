@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14 px;
+    line-height: 1.6;
+    background-image: url(img.jpg);
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+h1.features {
+    color: rgba(0, 1, 89, 5);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 86px;
+    text-align: center;
+
+}
+
+h1 {
+    color: red;
+    font-size: 52px;
+    text-align: center;
+    text-shadow: 0 3px 3px green;
+    opacity: 0.8;
+}
+
+p {
+    text-indent: 30px;
+    white-space: pre;
+    text-align: center;
+    word-spacing: 5px;
+    color: green;
+
+}
+
+aside {
+    visibility: hidden;
+}
+
